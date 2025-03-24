@@ -2,10 +2,10 @@
 A simple Chrome extension that helps users compare product prices across different platforms.
 
 ## 🚀 Features
-✅ 🔍 Search for any product using Google Shopping API.  
-✅ 📊 View price comparisons from multiple sources.  
-✅ 📸 Displays product images, prices, and links to buy.  
-✅ 🔗 Direct purchase links to product pages.  
+✅  Search for any product using Google Shopping API.  
+✅  View price comparisons from multiple sources.  
+✅  Displays product images, prices, and links to buy.  
+✅  Direct purchase links to product pages.  
 
 ## 🖥 Tech Stack
 - **Frontend**: HTML, CSS, JavaScript  
