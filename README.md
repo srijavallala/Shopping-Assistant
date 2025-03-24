@@ -19,8 +19,8 @@ A simple Chrome extension that helps users compare product prices across differe
 First, navigate to your desired folder and clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/srijavallala/Shopping-Assistant.git
+cd Shopping-Assistant
 ```
 
 ### 2️⃣ Install Dependencies
@@ -34,7 +34,7 @@ npm install
 Create a .env file in the root directory and add:
 
 ```sh
-SERP_API_KEY=your_api_key_here
+SERP_API_KEY=api_key
 ```
 
 ### 4️⃣ Run the Server
