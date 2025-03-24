@@ -1,19 +1,19 @@
 # 🛍 Shopping Assistant - Chrome Extension
 A simple Chrome extension that helps users compare product prices across different platforms.
 
-## 🚀 Features
+##  Features
 ✅  Search for any product using Google Shopping API.  
 ✅  View price comparisons from multiple sources.  
 ✅  Displays product images, prices, and links to buy.  
 ✅  Direct purchase links to product pages.  
 
-## 🖥 Tech Stack
+##  Tech Stack
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: Node.js, Express.js  
 - **API Used**: [SerpAPI - Google Shopping](https://serpapi.com/)  
 - **Database**: Not required (Fetches live data)  
 
-## 🛠 Installation
+##  Installation
 
 ### 1️⃣ Clone the Repository  
 First, navigate to your desired folder and clone the repository:
@@ -50,10 +50,10 @@ node server.js
 - Click "Load Unpacked" and select the extension folder.
 - Now, open the extension popup and start searching!
 
-## 📌 Usage
+##  Usage
 1️⃣ Open the extension popup.
 2️⃣ Enter a product name and click Search.
 3️⃣ View the product prices and compare them.
 
-## 📜 License
+##  License
 This project is for educational purposes only.
