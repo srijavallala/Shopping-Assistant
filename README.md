@@ -51,9 +51,9 @@ node server.js
 - Now, open the extension popup and start searching!
 
 ##  Usage
-1️⃣ Open the extension popup.
-2️⃣ Enter a product name and click Search.
-3️⃣ View the product prices and compare them.
+- Open the extension popup.
+- Enter a product name and click Search.
+- View the product prices and compare them.
 
 ##  License
 This project is for educational purposes only.
